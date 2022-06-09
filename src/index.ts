@@ -190,7 +190,8 @@ const nativeMarketsV3: Record<string, string> = {
   "APT/USDC": "ATjWoJDChATL7E5WVeSk9EsoJAhZrHjzCZABNx3Miu8B",
   "MBS/USDC": "9sUSmgx78tt692hzwiRdBdfwjxPF6nsYeJfPCrTz6vxm",
   "GST/USDC": "2JiQd14xAjmcNEJicyU1m3TVbzQDktTvY285gkozD46J",
-  "SHDW/USDC": "CVJVpXU9xksCt2uSduVDrrqVw6fLZCAtNusuqLKc5DhW"
+  "SHDW/USDC": "CVJVpXU9xksCt2uSduVDrrqVw6fLZCAtNusuqLKc5DhW",
+  "LSTAR/USDC": "C6y1AH1A9Q3Xdk5yxCj5XEQaG2mmXzaqQWq5HLhjpWiT"
 }
 
 const symbolsByPk = Object.assign(
